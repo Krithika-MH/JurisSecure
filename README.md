@@ -70,8 +70,8 @@ Data Retrieval: Overcame issues with retrieving encrypted data and making it acc
 
 🤝 Contributors
 
-Krithika M 
-Arpita Krishna
-Thanush J
-Janani P
+- Krithika M
+- Arpita Krishna
+- Thanush J
+- Janani P
 
