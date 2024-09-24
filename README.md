@@ -37,15 +37,19 @@ Clone the repository:
 
 bash
 Copy code
+
 git clone https://github.com/yourusername/jurissecure.git
+
 Install dependencies:
 
 bash
-Copy code
 npm install
-Smart Contract Deployment: Use Remix IDE to compile and deploy your smart contracts to the Ethereum blockchain.
 
-Connect to MetaMask: Make sure MetaMask is configured to the appropriate network for interacting with the smart contracts.
+Smart Contract Deployment:
+Use Remix IDE to compile and deploy your smart contracts to the Ethereum blockchain.
+
+Connect to MetaMask:
+Make sure MetaMask is configured to the appropriate network for interacting with the smart contracts.
 
 🌍 Real-World Applications
 
