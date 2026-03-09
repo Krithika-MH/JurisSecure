@@ -1,4 +1,4 @@
-## JurisSecure ⚖️
+# JurisSecure ⚖️
 
 Empowering Justice with Blockchain Technology
 
@@ -28,12 +28,12 @@ Web3 Integration: MetaMask for seamless interaction with the blockchain.
 
 ## 🚀 Getting Started
 
-# Prerequisites
+## Prerequisites
 Node.js: Ensure Node.js is installed to handle dependencies.
 MetaMask: Install the MetaMask extension to connect with the Ethereum blockchain.
 Remix IDE: Use Remix IDE to deploy smart contracts on the Ethereum network.
 
-# Steps to Install
+## Steps to Install
 
 Clone the repository:
 
@@ -41,25 +41,25 @@ Clone the repository:
 git clone https://github.com/yourusername/jurissecure.git
 ```
 
-# Install dependencies:
+## Install dependencies:
 
 ```bash
 npm install
 ```
 
-# Smart Contract Deployment:
+## Smart Contract Deployment:
 Use Remix IDE to compile and deploy your smart contracts to the Ethereum blockchain.
 
 Connect to MetaMask:
 Make sure MetaMask is configured to the appropriate network for interacting with the smart contracts.
 
-# 🌍 Real-World Applications
+## 🌍 Real-World Applications
 
 Law Enforcement: JurisSecure can streamline the process of securely managing and verifying sex offender and fraud records.
 Public Trust: Communities can access and verify non-sensitive records, building transparency between authorities and the public.
 Judiciary: Courts and legal entities can quickly access immutable records, enhancing case resolution efficiency.
 
-# 💡 Challenges Overcome
+## 💡 Challenges Overcome
 
 Blockchain Integration: Implementing decentralized storage and ensuring data encryption was a complex task that required multiple iterations.
 Smart Contract Development: Ensuring robust logic in Solidity to handle privacy concerns and real-time data access securely.
